@@ -6,6 +6,3 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/merciTito/Azure-SOC)
 
 
-<h2>📺 Coding Project</h2>
-
-- [Creating a Weather Search Engine](https://codesandbox.io/p/sandbox/github/merciTito/Weathersearchengine...)
